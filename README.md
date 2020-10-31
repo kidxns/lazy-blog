@@ -27,7 +27,7 @@
 
 ## How to settup the project you clone
 
--   `cd laravel-media;ibrary-v8`
+-   `cd lazy-blog`
 -   `composer install`
 -   `coppy (window) cp (macos) .env.example .env`
 -   `php artisan key:generate`
