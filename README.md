@@ -1,4 +1,5 @@
-# LARAVEL BLOG V8
+# LARAVEL LAZY DEV BLOG 
+## Core: Laravel 8
 
 - Authentication
 - API
