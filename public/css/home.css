@@ -1,0 +1,12 @@
+.img-thumbnail{
+
+    display: none !important;
+}
+.comment-body{
+    background-color: unset !important;
+    color: dimgray !important;
+}
+
+.comment{
+    border-bottom: dimgray !important;
+}

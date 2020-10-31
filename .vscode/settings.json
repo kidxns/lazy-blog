@@ -1,0 +1,5 @@
+{
+    "blade.format.enable": true,
+    "bladeFormatter.format.indentSize": 10,
+    "explorer.autoReveal": false
+}
