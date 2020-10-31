@@ -1,25 +1,22 @@
 # LARAVEL BLOG V8
 
-Authentication
-API
-Token authentication
-API Resources
-Versioning
-Blade
-Components
-Cache
-Email Verification
-Filesystem
-Helpers
-Horizon
-Localization
-Mail
-Migrations
-Policies
-Providers
-Requests
-Seeding & Factories
-Homestead
+- Authentication
+- API
+- Token authentication
+- API Resources
+- Versioning
+- Blade
+- Components
+- Cache
+- Email Verification
+- Filesystem
+- Helpers
+- Mail
+- Migrations
+- Policies
+- Providers
+- Requests
+- Seeding & Factories
 
 
 ## Libraries is using in the project
