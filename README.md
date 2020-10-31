@@ -48,6 +48,11 @@
     
 -   Run Seeder 
     `php artisan db:seed`
+    
+    ![Alt text](https://i.ibb.co/MVVGtNK/Screen-Shot-2020-10-31-at-22-25-34.png "Optional title") 
+    
+    ![Alt text](https://i.ibb.co/WvM9BNm/Screen-Shot-2020-10-31-at-22-28-20.png "Optional title") 
+    
 
 ## Laravel Media Library Documentation
 
@@ -62,5 +67,3 @@
 
 Laravel Passport is open-sourced software licensed under the MIT license.
 
-
-A
